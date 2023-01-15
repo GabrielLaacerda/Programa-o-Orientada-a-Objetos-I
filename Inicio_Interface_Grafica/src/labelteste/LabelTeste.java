@@ -50,7 +50,7 @@ public class LabelTeste extends JFrame {
         add(label6);
         add(jb6);
 
-        setTitle("Tela de cornos");
+        setTitle("Tela Teste");
         setSize(500, 450);
         setResizable(false);
         setLocationRelativeTo(null);
